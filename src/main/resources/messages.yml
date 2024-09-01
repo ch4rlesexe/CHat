@@ -1,0 +1,8 @@
+not-a-player: "&cOnly players can use this command."
+no-permission: "&cYou don't have permission to use this command."
+no-item-in-hand: "&eYou must hold an item to make it wearable."
+item-made-wearable: "&aThis item is now wearable on your head!"
+item-worn: "&aYou are now wearing this item on your head!"
+reload-success: "&aPlugin configuration reloaded successfully!"
+wearable-item-lore: "&a[Wearable Item]"
+right-click-lore: "&eRight click to put on your head!"

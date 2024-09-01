@@ -1,0 +1,11 @@
+name: CHat
+version: '1.0'
+main: org.charlie.cHat.CHat
+api-version: '1.21'
+commands:
+  makewearable:
+    description: Makes the item in your hand wearable on your head.
+    permission: chat.makewearable
+  chat:
+    description: Chat plugin command.
+    permission: chat.reload
